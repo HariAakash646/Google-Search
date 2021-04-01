@@ -1,0 +1,24 @@
+#foo {
+    width: 1000px;
+    border-radius: 15px;
+    border: 1px #000 solid;
+}
+#cont {
+    height: 90%;
+}
+html, body {
+    height: 100%;
+}
+.link_div {
+    margin-left: 100px;
+}
+img {
+    height: 275px;
+    width: 850px;
+}
+.btn {
+    background-color: rgb(244, 247, 242);
+}
+#cop {
+    margin: 30px;
+}
