@@ -1,5 +1,5 @@
 #foo {
-    width: 1000px;
+    width: 700px;
     border-radius: 45px;
     border: 1px #000 solid;
 }
@@ -10,11 +10,11 @@ html, body {
     height: 100%;
 }
 .link_div {
-    margin-left: 100px;
+    margin-left: 20px;
 }
-img {
-    height: 275px;
-    width: 850px;
+.img1 {
+    height: 150px;
+    width: 550px;
     margin:20px;
 }
 .btn {
@@ -22,4 +22,12 @@ img {
 }
 #cop {
     margin: 30px;
+}
+.img2 {
+    height: 60px;
+    width: 224px;    
+}
+.redirect {
+    color: black;
+    font-size: 75%;
 }
