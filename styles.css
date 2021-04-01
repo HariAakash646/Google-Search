@@ -1,6 +1,6 @@
 #foo {
     width: 1000px;
-    border-radius: 15px;
+    border-radius: 45px;
     border: 1px #000 solid;
 }
 #cont {
@@ -15,6 +15,7 @@ html, body {
 img {
     height: 275px;
     width: 850px;
+    margin:20px;
 }
 .btn {
     background-color: rgb(244, 247, 242);
