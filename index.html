@@ -10,8 +10,8 @@
                 border-radius: 15px;
                 border: 1px #000 solid;
             }
-            .container {
-                height: 100%;
+            #cont {
+                height: 90%;
             }
             html, body {
                 height: 100%;
@@ -19,7 +19,16 @@
         </style>
     </head>
     <body>
-        <div class="container">            
+        <div class="row">
+            <div class="col-10"></div>
+            <div class="col-1">
+                <a href="google_image.html" class="align-self-end">Images</a>
+            </div>
+            <div class="col-1">
+                <a href="advanced_search.html" class="align-self-end">Advanced</a>
+            </div>
+        </div>
+        <div class="container" id="cont">            
             <div class="row h-100">
                 <div class="col-sm-12 my-auto">
                     <form action="https://google.com/search">
